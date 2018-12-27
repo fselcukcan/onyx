@@ -1,2 +1,2 @@
 # onyx
-a sample interactive fiction game that comes with I7 system, this an export of that game
+web export of a sample interactive fiction game included in I7 game samples
